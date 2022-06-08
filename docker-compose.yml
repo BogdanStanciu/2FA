@@ -1,7 +1,7 @@
 version: '3.5'
 services:
   server: 
-    image: igenius:latest
+    image: 2fa:latest
     ports:
       - "3000:3000"
     networks:
