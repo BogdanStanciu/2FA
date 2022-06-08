@@ -1,0 +1,4 @@
+userId,password,email,name,surname,otp
+1,ef51306214d9a6361ee1d5b452e6d2bb70dc7ebb85bf9e02c3d4747fb57d6bec,mario.rossi@gmail.com,Mario,Rossi,False
+2,ef51306214d9a6361ee1d5b452e6d2bb70dc7ebb85bf9e02c3d4747fb57d6bec,luca.rossi@gmail.com,Luca,Rossi,False
+3,ef51306214d9a6361ee1d5b452e6d2bb70dc7ebb85bf9e02c3d4747fb57d6bec,alessio.rossi@gmail.com,Alessio,Rossi,True

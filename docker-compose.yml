@@ -1,0 +1,14 @@
+version: '3.5'
+services:
+  server: 
+    image: igenius:latest
+    ports:
+      - "3000:3000"
+    networks:
+      local_network:
+        aliases:
+          - server
+
+networks:
+  local_network:
+    name: local-network
