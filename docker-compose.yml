@@ -3,7 +3,7 @@ services:
   server: 
     image: 2fa:latest
     ports:
-      - "3000:3000"
+      - "${SERVER_PORT}:3000"
     networks:
       local_network:
         aliases:
